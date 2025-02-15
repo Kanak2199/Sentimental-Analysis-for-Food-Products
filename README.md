@@ -1,9 +1,9 @@
-# Sentiment Analysis for Food Products
+# Sentiment Analysis for Food Product Reviews
 
 ## Overview
 This project performs sentiment analysis on food product reviews using two different approaches:
 
-1. **VADER (Valence Aware Dictionary and sEntiment Reasoner)** - A lexicon-based, rule-based sentiment analysis tool optimized for social media text.
+1. **VADER (Valence Aware Dictionary and sentiment Reasoner)** - A lexicon-based, rule-based sentiment analysis tool optimized for social media text.
 2. **Roberta Pretrained Model** - A transformer-based model from Hugging Face, leveraging deep learning to capture contextual sentiment nuances.
 
 The project is implemented in Python and is designed to analyze customer reviews to determine their sentiment as positive, negative, or neutral.
